@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="logo.png" /></div>
+<div style="text-align:center"><img src="PicsArt_08-08-10.19.55.jpg" /></div>
 
 Бот для Дискорда, который проигрывает музыку из ВК.
 
